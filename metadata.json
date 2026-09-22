@@ -1,0 +1,6 @@
+{
+  "name": "Laboratorio Virtual de Robótica 3D",
+  "description": "Laboratorio virtual interactivo de construcción, conexión, programación por bloques y simulación 3D de robots educativos para estudiantes de secundaria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
